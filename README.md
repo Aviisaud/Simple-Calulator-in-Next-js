@@ -39,10 +39,6 @@ A simple calculator built with Next.js and React.
     ```
 2. Open your browser and navigate to `http://localhost:3000`.
 
-## Project Structure
-my-app/ ├── components/ │ └── Calculator.js ├── pages/ │ └── index.js ├── public/ ├── styles/ ├── README.md ├── package.json └── ...
-
-
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
