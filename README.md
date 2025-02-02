@@ -1,5 +1,5 @@
 # Next.js Calculator
-![Calculator Screenshot](public/calculator-screenshot.png.png)
+![Calculator Screenshot](public/calculator-screenshot.png)
 A simple calculator built with Next.js and React.
 
 ## Features
