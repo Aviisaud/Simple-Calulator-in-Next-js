@@ -1,6 +1,7 @@
 # Next.js Calculator
 ![Calculator Screenshot](public/calculator-screenshot.png)
 A simple calculator built with Next.js and React.
+
 Watch out here: https://simple-calulator-in-next-js.vercel.app/
 
 ## Features
